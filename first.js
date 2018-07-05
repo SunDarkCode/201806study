@@ -5,7 +5,7 @@ hello();
 function hello2(){
 	alert('hello');
 }
-helle2();
+hello2();
 function tryaa(){
 	console.log('try-try');
 }
