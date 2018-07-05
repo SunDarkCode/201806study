@@ -6,8 +6,8 @@ function hello2(){
 	alert('hello');
 }
 helle2();
-function try(){
+function tryaa(){
 	console.log('try-try');
 }
-try();
+tryaa();
 
